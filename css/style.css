@@ -170,3 +170,12 @@ main .container-main img{
     max-width: 980px;
 }
 
+.footer {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    align-items: center;
+    margin: 100px auto;
+    max-width: 980px;
+}
